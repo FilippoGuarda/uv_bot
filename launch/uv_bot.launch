@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg= "uv_bot" type= "uv_bot_node" name= "uv_bot_node" output= "screen">
+    
+<launch>
