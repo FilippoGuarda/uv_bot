@@ -1,1 +1,11 @@
-src/test.txt
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Ignore all .txt files
+*.txt
